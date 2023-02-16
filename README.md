@@ -1,7 +1,9 @@
 gdp-by-state
 ==============================
 
-Economic analysis of GDP components by state from 1997-2021
+Simple economic analysis of 51 states (including D.C.) by GDP growth components by NAICS sectors from 1997-2021.
+
+Live Power BI demo can be found here: 
 
 Project Organization
 ------------
