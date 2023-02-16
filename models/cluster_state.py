@@ -24,4 +24,3 @@ for state in state_gdp_growth.index:
         sector_growth = ((sector_gdp["2021"] - sector_gdp["1997"]) / sector_gdp["1997"]) * 100
         top_3_sectors = sector_growth.nlargest(3)
         print(top_3_sectors)
-Top 3 growing sectors in Alaska (Bottom 5
