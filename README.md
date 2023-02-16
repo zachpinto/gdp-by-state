@@ -1,4 +1,4 @@
-gdp-by-state
+GDP GROWTH BY STATE AND SECTOR, 1997-2021
 ==============================
 
 Simple economic analysis of 51 states (including D.C.) by GDP growth components by NAICS sectors from 1997-2021.
