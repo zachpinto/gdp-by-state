@@ -5,6 +5,9 @@ Simple economic analysis of 51 states (including D.C.) by GDP growth components 
 
 Live Power BI demo can be found here: 
 
+
+This project's organization was created utilizing /cookiecutterdatascience. The repo for cookiecutter can be found here: https://github.com/drivendata/cookiecutter-data-science/ The default directory structure is shown below.
+
 Project Organization
 ------------
 
