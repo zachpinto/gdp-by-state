@@ -4,4 +4,4 @@
 
 notebooks/** linguist-vendored
 
-MAKEFILE/** linguist-vendored
+**/Makefile linguist-vendored=true
