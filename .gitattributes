@@ -1,7 +1,5 @@
-# Jupyter notebook
+# Remove notebooks from Github language statistics 
 
-#For text count
-# ipynb  text
+# The purpose of this is to reduce the misleading nature of jupyter notebooks from absolutely dominating the language stats
 
-# To ignore it use below
-.ipynb linguist-documentation
+notebooks/** linguist-vendored
