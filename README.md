@@ -1,7 +1,12 @@
-gdp-by-state
+GDP GROWTH BY STATE AND SECTOR, 1997-2021
 ==============================
 
-Economic analysis of GDP components by state from 1997-2021
+Simple economic analysis of 51 states (including D.C.) by GDP growth components by NAICS sectors from 1997-2021.
+
+Live Power BI demo can be found here: 
+
+
+This project's organization was created using Cookiecutter Data Science. The repo for cookiecutter can be found here: https://github.com/drivendata/cookiecutter-data-science/ The default directory structure is shown below.
 
 Project Organization
 ------------
